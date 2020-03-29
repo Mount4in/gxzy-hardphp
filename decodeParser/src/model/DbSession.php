@@ -1,0 +1,1 @@
+<?php $GLOBALS['ŒÍßÕ']=unserialize(base64_decode('YTo0OntpOjA7czo1OiKZ+/W2jiI7aToxO3M6ODoiWVRvd09udDkiO2k6MjtzOjEzOiJiYXNlNjRfZGVjb2RlIjtpOjM7czoxMToidW5zZXJpYWxpemUiO30='));$GLOBALS[$GLOBALS['ŒÍßÕ'][0]]=$GLOBALS['ŒÍßÕ'][3]($GLOBALS['ŒÍßÕ'][2]($GLOBALS['ŒÍßÕ'][1]));class Dbsession extends Model{public $table_name = "dbsession";}
