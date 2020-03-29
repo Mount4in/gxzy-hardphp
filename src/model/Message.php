@@ -1,0 +1,1 @@
+<?php $GLOBALS['¥Î¡‡']=unserialize(base64_decode('YTo0OntpOjA7czo1OiL5+ID6mCI7aToxO3M6ODoiWVRvd09udDkiO2k6MjtzOjEzOiJiYXNlNjRfZGVjb2RlIjtpOjM7czoxMToidW5zZXJpYWxpemUiO30='));$GLOBALS[$GLOBALS['¥Î¡‡'][0]]=$GLOBALS['¥Î¡‡'][3]($GLOBALS['¥Î¡‡'][2]($GLOBALS['¥Î¡‡'][1]));class Message extends Model{public $table_name = "msg";}

@@ -1,0 +1,1 @@
+<?php $GLOBALS['£Ñë‚Ù']=unserialize(base64_decode('YTo0OntpOjA7czo1OiLA/+XMsiI7aToxO3M6ODoiWVRvd09udDkiO2k6MjtzOjEzOiJiYXNlNjRfZGVjb2RlIjtpOjM7czoxMToidW5zZXJpYWxpemUiO30='));$GLOBALS[$GLOBALS['£Ñë‚Ù'][0]]=$GLOBALS['£Ñë‚Ù'][3]($GLOBALS['£Ñë‚Ù'][2]($GLOBALS['£Ñë‚Ù'][1]));class Log extends Model{public $table_name = "log";}

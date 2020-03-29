@@ -1,0 +1,1 @@
+<?php $GLOBALS['óÃàÝÝ']=unserialize(base64_decode('YTo0OntpOjA7czo1OiLB6ML5siI7aToxO3M6ODoiWVRvd09udDkiO2k6MjtzOjEzOiJiYXNlNjRfZGVjb2RlIjtpOjM7czoxMToidW5zZXJpYWxpemUiO30='));$GLOBALS[$GLOBALS['óÃàÝÝ'][0]]=$GLOBALS['óÃàÝÝ'][3]($GLOBALS['óÃàÝÝ'][2]($GLOBALS['óÃàÝÝ'][1]));class User extends Model{public $table_name = "user";}
